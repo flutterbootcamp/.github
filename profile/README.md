@@ -18,8 +18,7 @@ Individual & exclusiva (1 a 1), podendo ser utilizada a qualquer momento do trei
 
 [Comprar via Github Sponsor](https://github.com/sponsors/flutterbootcamp?frequency=one-time)
 
-[Comprar via Hotmart](hotmart.com/pt-br/marketplace/produtos/flutter-bootcamp/J14965886Y
-)
+[Comprar via Hotmart](https://hotmart.com/pt-br/marketplace/produtos/flutter-bootcamp/J14965886Y)
 
 ---
 
