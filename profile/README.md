@@ -6,32 +6,18 @@ Com ele, você pode criar aplicativos incríveis, rápidos e responsivos para 6 
 
 Desde o básico da linguagem Dart até a publicação do seu aplicativo. O treinamento é completo!
 
----
-
 Você vai criar **5 aplicativos**, durante **400+ aulas** totalizando **40+ horas** de conteúdo!
 
-##### Bônus: Mentoria
-
-Individual & exclusiva (1 a 1), podendo ser utilizada a qualquer momento do treinamento. Duração: 30m.
+Baixe o aplicativo do Flutter Bootcamp: [AppStore](https://apps.apple.com/us/app/flutter-bootcamp/id6447147432) | [Google Play](https://play.google.com/store/apps/details?id=br.com.flutterbootcamp.aplicativo)
 
 ---
-
-[Comprar via Github Sponsor](https://github.com/sponsors/flutterbootcamp?frequency=one-time)
 
 [Comprar via Hotmart](https://hotmart.com/pt-br/marketplace/produtos/flutter-bootcamp/J14965886Y)
 
 ---
 
-Estes serão os aplicativos para o seu portifólio:
+[Comprar via Github Sponsor](https://github.com/sponsors/flutterbootcamp?frequency=one-time)
 
-Kura - Calculadora de IMC interativa. Baseado no peso e na altura informados, iremos calcular o IMC de uma pessoa adulta.
+##### Bônus: Mentoria
 
-Caramelo - Encontre e favorite os doguinhos mais fofos da internet. Vamos explorar também o pub.dev para acelerar a criação.
-
-Tempus - Calculadora inteligente de tempo. Quantos minutos são economizados ao consumir vídeos e áudios acelerados?
-
-Libria - Sua biblioteca particular. Pesquise e organize os seus livros favoritos, consultando as informações na api do Google Books.
-
-Menuo - Cardápio interativo para clientes e um dashboard web para gerenciar o conteúdo e os pedidos. Criaremos nossa própria API com o Strapi.
-
----
+Individual & exclusiva (1 a 1), podendo ser utilizada a qualquer momento do treinamento. Duração: 1h.
