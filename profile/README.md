@@ -20,4 +20,4 @@ Baixe o aplicativo do Flutter Bootcamp: [AppStore](https://apps.apple.com/us/app
 
 ##### Bônus: Mentoria
 
-Individual & exclusiva (1 a 1), podendo ser utilizada a qualquer momento do treinamento. Duração: 1h.
+Individual & exclusiva (1 a 1), podendo ser utilizada a qualquer momento do treinamento. Duração: 30m.
